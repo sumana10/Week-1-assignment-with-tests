@@ -1,0 +1,2 @@
+## Async Pattern Matcher
+Write a function that asynchronously checks if a given string contains a specific pattern. The function should take a string and a pattern as parameters. It should log a success message if the pattern is found and a failure message if it's not.

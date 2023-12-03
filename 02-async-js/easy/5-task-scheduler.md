@@ -1,0 +1,2 @@
+## Async Task Scheduler
+Create a task scheduler that takes an array of tasks as input. Each task is a function that returns a promise. The scheduler should execute the tasks in order, waiting for the completion of each task before moving on to the next one. Implement this using async/await and Promise.

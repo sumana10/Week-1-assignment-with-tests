@@ -1,0 +1,2 @@
+## Async Data Transformer
+Write an asynchronous function in JavaScript that takes an array of objects with a "name" property and an asynchronous function as input. The function should transform each object's "name" property by appending the result of the asynchronous function. After all transformations are complete, log the updated array of objects.
